@@ -5,17 +5,17 @@
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
-**AIM:**
+## AIM:
 
 To design a Full Adder and Full Subtractor circuit and verify its truth table in Quartus using Verilog programming.
 
-**Equipments Required:**
+## Equipments Required:
 
 Hardware – PCs, Cyclone II , USB flasher
 
 Software – Quartus prime
 
-**Full Adder and Full Subtractor**
+## Full Adder and Full Subtractor
 
 **Full Adder**
 
@@ -27,7 +27,7 @@ Carry = AB + ACin + BCin
 
 ![image](https://github.com/naavaneetha/FULL_ADDER_SUBTRACTOR/assets/154305477/0f30ba51-5ffb-4198-845f-18e054f675e7)
 
-**Figure -1 FULL ADDER**
+
 
 **Full Subtractor**
 
@@ -39,8 +39,7 @@ Diff = A ⊕ B ⊕ Bin
 
 Borrow out = A'Bin + A'B + BBin
 
-**Truthtable**
-
+## Truthtable
 
 
 **FULL ADDER**
@@ -52,7 +51,7 @@ Borrow out = A'Bin + A'B + BBin
 ![image](https://github.com/user-attachments/assets/36e82dc3-7fc7-4f57-a016-5f1a221b5e29)
 
 
-**Procedure**
+## Procedure
 
 1. Type the program in Quartus software.
 2. Compile and run the program.
@@ -60,9 +59,9 @@ Borrow out = A'Bin + A'B + BBin
 4. Create nodes for inputs and outputs to generate the timing diagram.
 5. For different input combinations generate the timing diagram 
 
-**Program:**
+## Program:
 
-/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber: 24900622
+/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. 
 */
 
 **FULL ADDER**
@@ -75,7 +74,7 @@ Borrow out = A'Bin + A'B + BBin
 
 
 
-**RTL Schematic**
+## RTL Schematic
 
 
 **FULL ADDER**
@@ -89,7 +88,7 @@ Borrow out = A'Bin + A'B + BBin
 
 
 
-**Output Timing Waveform**
+## Output Timing Waveform
 
 **FULL ADDER**
 
